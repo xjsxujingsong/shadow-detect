@@ -1,0 +1,146 @@
+= Portion! = 
+==Tappen Trained==
+1 Tappen train
+Confusion Matrix:
+    0.7693    0.2307
+    0.0978    0.9022
+TrueRate:
+    0.8897
+2 Tappen test
+Confusion Matrix:
+    0.7448    0.2552
+    0.0948    0.9052
+TrueRate:
+    0.8885
+3 Ruiqi train
+
+4 Ruiqi test
+
+
+==Ruiqi Trained==
+1 Tappen train
+
+2 Tappen test
+
+3 Ruiqi train
+
+4 Ruiqi test
+Confusion Matrix:
+    0.7716    0.2284
+    0.2438    0.7562
+TrueRate:
+    0.7564
+
+
+
+
+= NO Bfilter =
+==Tappen Trained==
+1 Tappen train
+Confusion Matrix:
+    0.7329    0.2671
+    0.0839    0.9161
+TrueRate:
+    0.8930
+2 Tappen test
+Confusion Matrix:
+    0.7476    0.2524
+    0.0865    0.9135
+TrueRate:
+    0.8915
+3 Ruiqi train
+Confusion Matrix:
+    0.7549    0.2451
+    0.1694    0.8306
+TrueRate:
+    0.8218
+4 Ruiqi test
+Confusion Matrix:
+    0.9159    0.0841
+    0.1938    0.8062
+TrueRate:
+    0.8145
+
+==Ruiqi Trained==
+1 Tappen train
+Confusion Matrix:
+    0.1962    0.8038
+    0.1598    0.8402
+TrueRate:
+    0.7364
+2 Tappen test
+Confusion Matrix:
+    0.2306    0.7694
+    0.1667    0.8333
+TrueRate:
+    0.7654
+3 Ruiqi train
+Confusion Matrix:
+    0.9158    0.0842
+    0.1139    0.8861
+TrueRate:
+    0.8907
+4 Ruiqi test
+Confusion Matrix:
+    0.4903    0.5097
+    0.2296    0.7704
+TrueRate:
+    0.7503
+
+
+
+= With Bfilter =
+==Tappen Trained==
+1 Tappen train
+Confusion Matrix:
+    0.7129    0.2871
+    0.0802    0.9198
+TrueRate:
+    0.8918
+2 Tappen test
+Confusion Matrix:
+    0.6933    0.3067
+    0.0892    0.9108
+TrueRate:
+    0.8803
+3 Ruiqi train
+Confusion Matrix:
+    0.7683    0.2317
+    0.1189    0.8811
+TrueRate:
+    0.8644
+4 Ruiqi test
+Confusion Matrix:
+    0.9312    0.0688
+    0.1719    0.8281
+TrueRate:
+    0.8385
+
+==Ruiqi Trained==
+1 Tappen train
+Confusion Matrix:
+    0.1972    0.8028
+    0.1581    0.8419
+TrueRate:
+    0.7171
+2 Tappen test
+Confusion Matrix:
+    0.2446    0.7554
+    0.1621    0.8379
+TrueRate:
+    0.7533
+3 Ruiqi train
+Confusion Matrix:
+    0.8313    0.1687
+    0.0832    0.9168
+TrueRate:
+    0.9017
+4 Ruiqi test
+Confusion Matrix:
+    0.5544    0.4456
+    0.2189    0.7811
+TrueRate:
+    0.7612
+
+
+

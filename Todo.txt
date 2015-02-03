@@ -1,0 +1,33 @@
+Hey! Cheer up and do it!
+For URFP+GRE, you do still have chance! Give it a shot!
+-------------------------------------------------------
+No matter what happens, take responsiblility for yourself, be strong,
+and know that your love ones are there with you.
+--------------------------------------------------------------------
+
+==Testing the fist Module==
+July 31
+1 Write soft shadow debugging code (done)
+2 Tweak training code to filter out the non-good training set
+3 Unify the preprocessing step
+    - annotate all UIUC training set (done)
+    - write the unified preprocessing function (done)
+    - modify the training and testing code (done)
+    - create code that generate random traing and testing list
+4 Add segmentation boundary visual code for debug!
+
+August 1
+1 Add segmentation boundary visual code for debug!
+2 Tweak training code to filter out the non-good training set
+3 Try bilinear filter (done)
+
+August 2
+1 Add segmentation boundary visual code for debug!
+2 Tweak training code to filter out the non-good training set
+  - Test the statistics of the 
+3 Write code just for ruiqi training and testing
+
+==For the new experiment==
+1 Try classify edges
+2 Find out inference model
+3 Test neighbor, neighbor + pairwise
